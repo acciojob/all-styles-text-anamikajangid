@@ -1,11 +1,11 @@
-div{
+.main{
 	width:200px;
 	background-color:purple;
 	padding:10px;
     border-left-width:5px;
 	border-left-color:green;
 }
-h2{
+#h2{
 	text-font-size:20px;
 	color:white;
 	
